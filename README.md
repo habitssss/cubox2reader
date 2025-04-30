@@ -15,7 +15,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/cubox2reader.git
+git clone https://github.com/habitssss/cubox2reader.git
 cd cubox2reader
 
 # 构建项目
